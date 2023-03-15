@@ -27,4 +27,7 @@ Sprint-Boot-Task-2: [To be finished by EOD 14-03-2023] </br>
     
     
 ### What Changes can be made-</br>
-Implementing validations in service class but using methods to avoid code complexity. Like isValid() etc.,
+Implementing validations in service class but using methods to avoid code complexity. Like isValid() etc.,</br>
+Validation for mobile +91-1234567899 (If we use it through @RequestParam it is giving some error.) </br>
+http://localhost:8080/search?phone=+91-7974003539
+
